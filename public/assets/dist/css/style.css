@@ -1,0 +1,48 @@
+.altoTxt {
+    height: 25px;
+}
+.colorLabel {
+    color: darkslategray;
+}
+.box-title {
+    color: darkslategray;
+    font-weight: bold;
+}
+.help-block {
+    display: none;
+}
+.mGrid {
+    border-color: #aabfd6;
+    color: darkslategray;
+    background-color: #fff;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
+.mGrid th {
+    border: 1px solid;
+    border-color: #f6f9fb #fff #c2cedb #aabfd6;
+    border-top-color: #aabfd6;
+    background: #f1f5fb;
+    color: darkslategray;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.mGrid td {
+    color: darkslategray;
+    font-size: 12px;
+    border-color: #f6f9fb #fff #c2cedb #aabfd6;
+    /*padding-left: 8px;
+        padding-right: 8px;*/
+    padding: 3px 7px 3px;
+}
+
+
+
+
+
+
+
